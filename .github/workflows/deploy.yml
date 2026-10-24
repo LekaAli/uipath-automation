@@ -11,7 +11,7 @@ env:
   CLI_VERSION:      '1.202.0'
   NODE_VERSION:     '22'
   SOLUTION_NAME:    'my-solution'
-  SOLUTION_DIR:     './uipath-automation-solution'
+  SOLUTION_DIR:     './uipath-automation-solution/my-solution'
   OUTPUT_DIR:       './dist'
 
 jobs:
