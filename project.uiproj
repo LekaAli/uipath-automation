@@ -1,5 +1,5 @@
 {
-  "Name": "Home Process",
+  "Name": "uipath-automation",
   "ProjectType": "Process",
   "Description": "Blank Process",
   "MainFile": "Main.xaml"
